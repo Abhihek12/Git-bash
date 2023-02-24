@@ -37,6 +37,24 @@ This is a test Document
 -->git push origin master
 
 
+
+-----------------------------------------------------------------
+Steps to upload local repo to remote repo
+-----------------------------------------------------------------
+
+1. to add the repo into satging (git add -A)
+2. commit the repo (git commit -m "Commit repo" )
+3. push the local repo in remote repo (git push origin master)
+
+*imp
+if you do any editing before commit alwyas put the repo in satging mode 
+and then push the repo to remote repo 
+
+
+-----------------------------------------------------------------
+
+
+
 ----------------------------------------------------
        This Document is For Trying purpose
 ----------------------------------------------------
