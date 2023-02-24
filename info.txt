@@ -1,0 +1,37 @@
+This is a test Document
+
+1. to change the current directory to git repo
+ --> git init (UnTracked Mode)
+
+2. to check all commends 
+--> git help config
+
+3. to clear console
+--> clear
+
+4. for version
+--> git --version
+
+5. to get the sattus 
+--> git status
+
+6. to put in Staging Mode
+--> git add -A (Staging Mode)
+
+7. To commit 
+--> git commit
+
+8. -m "Message"
+--> for adding message
+
+9. to register user id 
+--> $ gti config --global user.username Abhihek12
+
+9. to register user Email 
+--> $ gti config --global user.email sighaacs19@student.mes.ac.in
+
+10. to Add the Local repo to remote repo 
+-->git remote add origin (https://github.com/Abhihek12/Git-bash.git) <-- this is SSH Address of repo created online (Remote repo)
+
+11.to pass the contant of local repo to remote repo
+-->git push origin master
