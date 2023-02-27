@@ -39,8 +39,16 @@ This is a test Document
 12. to Add new Branch 
 --> git branch first_branch
 
-13 to change the branch
+13. to change the branch
 --> $ git branch first_branch
+
+14.  it will remove file while it is  in unstage mode      -->git rm (file nmae)  
+
+15. it will remove file while it is in stage mode
+--> git rm --cached (File name)
+
+
+
 -----------------------------------------------------------------
 Steps to upload local repo to remote repo
 -----------------------------------------------------------------
